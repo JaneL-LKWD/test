@@ -1,0 +1,11 @@
+{
+	"scopedRegistries": [
+    {
+      "name": "MyRegistry",
+      "url": "https://github.com/JaneL-LKWD/test",
+      "scopes": [
+        "com.mycompany"
+      ]
+    }
+  ]
+}
