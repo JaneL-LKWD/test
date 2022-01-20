@@ -20,7 +20,7 @@
   },
     "repository": {
     "type": "git",
-    "url": "https://github.com/JaneL-LKWD/test/tree/main/Package2",
+    "url": "https://github.com/JaneL-LKWD/test.git",
     "directory": "packages/package2"
   }
 }
