@@ -1,5 +1,5 @@
 {
-  "name": "com.test1",
+  "name": "com.test",
   "version": "1.2.3",
   "displayName": "Package Example 1",
   "description": "This is an example package",
@@ -17,9 +17,10 @@
     "name": "Unity",
     "email": "unity@example.com",
     "url": "https://www.unity3d.com"
-  }
+  },
     "repository": {
     "type": "git",
     "url": "https://github.com/JaneL-LKWD/test/tree/main/Package1",
     "directory": "packages/package1"
+	}
 }
